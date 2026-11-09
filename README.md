@@ -63,3 +63,8 @@ With encryption on there should be no match in the project's own data (a match i
 |---|---|
 | `Esc` | Quit (stops Play mode in the Editor) |
 | `←` / `→` or `<` / `>` | Switch between scene 0 and scene 1 |
+
+
+## LLM Usage
+All code and bugs copyright to me - MIT -
+LLM usage for unit tests, git management, documentation 
