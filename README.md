@@ -68,3 +68,7 @@ With encryption on there should be no match in the project's own data (a match i
 ## LLM Usage
 All code and bugs copyright to me - MIT -
 LLM usage for unit tests, git management, documentation 
+
+## License
+
+MIT, see [LICENSE](LICENSE). The Yarn Spinner package is licensed separately under its own terms.
