@@ -1,0 +1,10 @@
+title: Start
+---
+Alice: Welcome to the encrypted dialogue test. #line:04e5842 
+Bob: 秘密の合言葉は「剣魚」🐟 — Ünïcödé & ASCII "quotes" work. #line:0db4923 
+-> Ask about the passphrase - projectSettings #line:042f69f 
+    Alice: The passphrase is swordfish. #line:0985021 
+-> Say goodbye #line:0c5cf6a 
+    Alice: Goodbye! #line:0fcad2d 
+Bob: The end. #line:0e290a4 
+===

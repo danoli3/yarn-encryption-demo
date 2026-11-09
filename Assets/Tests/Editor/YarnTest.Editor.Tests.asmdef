@@ -1,0 +1,27 @@
+{
+    "name": "YarnTest.Editor.Tests",
+    "rootNamespace": "",
+    "references": [
+        "YarnSpinner.Unity",
+        "YarnSpinner.Unity.Editor",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "YarnSpinner.dll",
+        "YarnSpinner.Compiler.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

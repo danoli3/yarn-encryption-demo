@@ -1,0 +1,25 @@
+{
+    "name": "YarnTest.PlayMode.Tests",
+    "rootNamespace": "",
+    "references": [
+        "YarnTest.Scene",
+        "YarnSpinner.Unity",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "YarnTest.Common"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "YarnSpinner.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
